@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="title_activity_movies_info">Peliculas</string>
+    <string name="mark_as_favourite">Favorito</string>
+    <string name="favourite_movies">Peliculas Favoritas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hello_blank_fragment">fragment</string>
+    <string name="title_activity_main">Peliculas</string>
+    <string name="popular_movies">Peliculas Populares</string>
+    <string name="filter_search">Filtrar Busqueda</string>
+    <string name="categories">Categorias</string>
+    <string name="my_movies">My Movies</string>
+    <string name="tmdb_movies">Wunderton Movies</string>
+    <string name="top_rated_movies">Mejor valoradas</string>
+    <string name="genres">Filtrar por generos</string>
+    <string name="search_any_movie">Buscar pelicula</string>
+
+</resources>
+
+
+
